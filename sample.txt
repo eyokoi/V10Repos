@@ -10,4 +10,4 @@ Edit from sshgw
 
 Edit in the baranch
 
-edit2 local
+edit local
