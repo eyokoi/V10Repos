@@ -1,2 +1,0 @@
-sample2.txt from 10.0.1.20
-
